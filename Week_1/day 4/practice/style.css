@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+
+}
+    
+.user{
+    margin-top: 30px;
+    height: 250px;
+    width: 550px;
+    border: solid grey;
+}
+.blue{
+    background-color:#17A2B8;
+    height: 60px;
+    width: 550px;
+    align-items: center;
+    border: none;
+    
+}
+.white{
+    background-color: white;
+
+
+}
+.image{
+
+
+    
+    
+}
